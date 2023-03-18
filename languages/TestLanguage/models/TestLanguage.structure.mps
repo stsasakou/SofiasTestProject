@@ -33,5 +33,10 @@
     <property role="TrG5h" value="Test2" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" />
   </node>
+  <node concept="1TIwiD" id="7pzustn7VCr">
+    <property role="EcuMT" value="8530796016237001243" />
+    <property role="TrG5h" value="Test3" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+  </node>
 </model>
 
